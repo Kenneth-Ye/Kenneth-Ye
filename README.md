@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kenneth and I am a Port Credit Student.
+I'm Kenneth, and I'm currently attending the Port Credit Secondary School. I like making cool projects, and solving problems. 
 
 <!--
 **Kenneth-Ye/Kenneth-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
