@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kenneth, and I'm currently attending the Port Credit Secondary School. I like making cool projects, and solving problems. 
+I'm Kenneth, and I'm currently attending the Port Credit Secondary School. I am an aspiring software engineer. I like making cool projects, and solving problems. My Github showcases my best work and projects.
 
 <!--
 **Kenneth-Ye/Kenneth-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
