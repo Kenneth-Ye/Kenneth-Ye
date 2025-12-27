@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kenneth, and I'm currently a Computer Science student at the University of Waterloo. 
+I'm Kenneth and I'm currently a Computer Science student at the University of Waterloo. 
 
 🌱 Previously worked at Shopify as a Software Engineer Intern.
 
